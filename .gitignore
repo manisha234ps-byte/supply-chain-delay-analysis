@@ -1,0 +1,15 @@
+# Dataset
+data/
+
+# Windows files
+desktop.ini
+Thumbs.db
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Secrets
+.env
